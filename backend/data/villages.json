@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Village Alpha",
+    "population": 5000,
+    "rainfall_history": [80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25],
+    "groundwater_level": [30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19],
+    "days_since_last_supply": 6,
+    "previous_allocations": 2,
+    "lat": 19.0760,
+    "lng": 72.8777
+  },
+  {
+    "name": "Village Beta",
+    "population": 3000,
+    "rainfall_history": [90, 85, 88, 87, 84, 82, 80, 79, 78, 77, 76, 75],
+    "groundwater_level": [35, 34, 34, 33, 33, 32, 32, 31, 31, 30, 30, 29],
+    "days_since_last_supply": 2,
+    "previous_allocations": 1,
+    "lat": 19.0820,
+    "lng": 72.8850
+  },
+  {
+    "name": "Village Gamma",
+    "population": 8000,
+    "rainfall_history": [60, 55, 50, 45, 40, 35, 30, 25, 20, 15, 10, 5],
+    "groundwater_level": [28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17],
+    "days_since_last_supply": 8,
+    "previous_allocations": 3,
+    "lat": 19.0900,
+    "lng": 72.8900
+  }
+]
